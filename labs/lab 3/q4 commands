@@ -1,0 +1,9 @@
+| command | what it does |
+| ------- | ------------ |
+| echo    | prints text to terminal |
+| fortune |  adds text |
+| cowsay  |picture of cow saying something|
+| lolcat  | displays text in rainbow effect|
+| figlet  | displays message in large letters|
+| toilet  | border/ box|
+| rig     |boxes- dboy|
