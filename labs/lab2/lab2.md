@@ -18,4 +18,3 @@ Course: CIS 106 Linux Fundamentals
 
 ## Question 4
 ![q4](question4.png)
-
